@@ -19,8 +19,22 @@
  5. You can also run this project through this live link provided below.
 
 **LIVE LINK**
+This project can be accesse through https://kelvinachiando.github.io/Phase-1-project/
 
 **KNOWN BUGS**
+I am currently working on a refersh button to add to the application.
+
 **TECHNOLOGIES USED**
+1. Javascript
+2. CSS
+3. HTML
+4. The DOM
+
+
 **SUPPORT AND CONTACT** 
+For more enquiries, suggestions and clarification, you can contact me through:
+Email :kelvinostin22@gmail.com
+Telephone: +254724733537
+
 **LICENSE**
+Data used in this application is fetched from dictionaryapi.dev
